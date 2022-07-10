@@ -1,12 +1,5 @@
-# about..
+## about.
 
-## .github pages
+just a page
 
-Static page design. Fully responsive.
-[Pages](http://pages.github.com)
-
-## .about me
-
-Coding enthusiast, web developer from Portugal. 
-* Strive to be lazy *
-
+@raspeberrylatte
