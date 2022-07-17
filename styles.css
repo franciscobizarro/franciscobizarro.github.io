@@ -1,18 +1,10 @@
-:root{
-    --cl-100: #FAF6F3;
-    --cl-300: #EDE3D2;
-    --cl-400: #E0D1B2;
-    --cl-500: #D2BE91;
-    --cl-700: #C5AB70;
-
-}
 body{
-    font-family: 'Roboto', sans-serif;
-    font-size: .85em;
-    background-color: var(--cl-100);
-    padding: 0;
+background-color:#f3f3f3;
+margin:0;
+padding: 0;
 }
-
-.container{
-    background-color: var(--cl-500);
+.logo{
+    display: grid;
+    justify-content: center;
+    margin-top: 20rem;
 }
