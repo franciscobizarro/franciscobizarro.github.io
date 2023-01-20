@@ -1,5 +1,4 @@
 ## about.
-
-just a page
+a portfolio page
 
 @raspeberrylatte
